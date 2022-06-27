@@ -1,6 +1,4 @@
-# jpphp
-
-**What You Should Already Know**
+#**What You Should Already Know**
   Before you continue you should have a basic understanding of the following:
 
     HTML

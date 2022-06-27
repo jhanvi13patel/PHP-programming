@@ -3,7 +3,7 @@ PHP Tutorial #1
 Installing XAMPP, Notepad++/VS Code + Environment Setup
 
 XAMPP
-1.      Go to this [link (https://www.apachefriends.org/download.html) ](https://www.apachefriends.org/download.html)to download XAMPP according to your OS and platform.
+ Go to this [link (https://www.apachefriends.org/download.html) ](https://www.apachefriends.org/download.html)to download XAMPP according to your OS and platform.
 Open the downloaded setup file. Follow the setup wizard and install XAMPP.
 Run XAMPP after the installation. Start MySQL and Apache server by clicking Start in front of it. (This has been practically done and explained in the video)
 Note: If you face any issue while starting the servers in step 3 regarding Port 80, make sure port 80 is not being used by any other application such as Skype. You can check the port usage stats in the Resource Monitor of the windows OS.

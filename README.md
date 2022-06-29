@@ -3,7 +3,7 @@ Before you continue you should have a basic understanding of the following:
 1.	HTML
 2.	CSS
 3.	JavaScript
-4.	
+
 **What is PHP?**
 1.	PHP is an acronym for "PHP: Hypertext Preprocessor"
 2.	PHP is a widely-used, open source scripting language

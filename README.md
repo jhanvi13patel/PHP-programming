@@ -1,4 +1,5 @@
 **What You Should Already Know**
+
 Before you continue you should have a basic understanding of the following:
 1.	HTML
 2.	CSS
